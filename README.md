@@ -1,4 +1,4 @@
-# re-ranking-lightweight
+# Diversification and Fairness in Search
 
 In Progress.
 
